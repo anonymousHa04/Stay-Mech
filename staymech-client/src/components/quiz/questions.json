@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Young's modulus is defined as the ratio of?",
+    "optionA": "Volumetric stress and volumetric strain",
+    "optionB": "Lateral stress and lateral strain",
+    "optionC": "Longitudinal stress and longitudinal strain",
+    "optionD": "Shear stress to shear strain",
+    "answer": "Longitudinal stress and longitudinal strain"
+  },
+
+  {
+    "question": "Tensile strength of a material is obtained by dividing the maximum load during the test by the?",
+    "optionA": "Area at the time of fracture",
+    "optionB": "Original cross-sectional area",
+    "optionC": "Average of (A) and (B)",
+    "optionD": "Minimum area after fracture",
+    "answer": "Original cross-sectional area"
+  },
+
+  {
+    "question": "If a part is constrained to move and heated, it will develop?",
+    "optionA": "Principal stress",
+    "optionB": "Tensile stress",
+    "optionC": "Compressive stress",
+    "optionD": "Shear stress",
+    "answer": "Compressive stress"
+  },
+
+  {
+    "question": "The moment of resistance of a balanced reinforced concrete beam is based on the stresses in?",
+    "optionA": "Steel only",
+    "optionB": "Concrete only",
+    "optionC": "Steel and concrete both",
+    "optionD": "None of these",
+    "answer": "Steel and concrete both"
+  },
+
+  {
+    "question": "Which of the following function can the spring perform?",
+    "optionA": "Store energy",
+    "optionB": "Absorb shock",
+    "optionC": "Measure force",
+    "optionD": "All of the mentioned",
+    "answer": "All of the mentioned"
+  },
+
+  {
+    "question": "The longest leaf in a leaf spring is called centre leaf?",
+    "optionA": "It is called middle leaf",
+    "optionB": "It is called master leaf",
+    "optionC": "Yes",
+    "optionD": "None of the listed",
+    "answer": "It is called master leaf"
+  },
+
+  {
+    "question": "If spring index=2.5, what can be concluded about stresses in the wire?",
+    "optionA": "They are high",
+    "optionB": "They are negligible",
+    "optionC": "They are moderate",
+    "optionD": "Cannot be determined",
+    "answer": "They are high"
+  },
+
+  {
+    "question": "The helix angle is very small about 2⁰. The spring is open coiled spring?",
+    "optionA": "Yes",
+    "optionB": "It is closed coiled spring",
+    "optionC": "That small angle isn’t possible",
+    "optionD": "None of the listed",
+    "answer": "It is closed coiled spring"
+  },
+
+  {
+    "question": "In an ideal machine, the output as compared to input is?",
+    "optionA": "Less",
+    "optionB": "More",
+    "optionC": "Equal",
+    "optionD": "May be less or more depending on efficiency",
+    "answer": "Equal"
+  },
+
+  {
+    "question": "A three rotor systemhas followingnumber of natural frequencies?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Two"
+  },
+
+  {
+    "question": "Which of the following disciplines provides study of the relative motion between the parts of a machine and the forces acting on the parts?",
+    "optionA": "Theory of machines",
+    "optionB": "Applied mechanics",
+    "optionC": "Mechanisms",
+    "optionD": "Kinetics",
+    "answer": "Theory of machines"
+  },
+
+  {
+    "question": "Which of the following assumptions are made in torsion theory?",
+    "optionA": "Shaft is perfectly straight",
+    "optionB": "Material of the shaft is heterogeneous",
+    "optionC": "Twist cannot be uniform along the length of the shaft",
+    "optionD": "All of the above",
+    "answer": "Shaft is perfectly straight"
+  },
+
+  {
+    "question": "A member subjected to couple produces rotational motion about its longitudinal axis called as?",
+    "optionA": "Torsion",
+    "optionB": "Twisting moment",
+    "optionC": "Both A. and B.",
+    "optionD": "None of the above",
+    "answer": "Both A. and B."
+  },
+
+  {
+    "question": "Which of the following relation represents torsional flexibility?",
+    "optionA": "GJ",
+    "optionB": "GL",
+    "optionC": "GJ / L",
+    "optionD": "L / GJ",
+    "answer": "L / GJ"
+  },
+
+  {
+    "question": "Stress in the cross section of a shaft at the centre?",
+    "optionA": "is zero",
+    "optionB": "decreases linearly to the maximum value of at outer surface",
+    "optionC": "both a. and b.",
+    "optionD": "none of the above",
+    "answer": "is zero"
+  }
+]

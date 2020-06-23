@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://staymech:staymech@staymech-5ievg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"ns_myJwtSecret"
+}

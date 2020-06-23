@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $quicksand;
+}
+
+.toast-invalid {
+  background-color: $error-text !important;
+  border-radius: 5px !important;
+  color: $off-white !important;
+  margin-right: 135px;
+  float: right;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+}
+
+.toast-valid {
+  background-color: $success-text !important;
+  border-radius: 5px !important;
+  color: $off-white !important;
+  margin-right: 135px;
+  float: right;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+}
+
+.disable {
+  background-color: #ccc !important;
+  box-shadow: none !important;
+  opacity: 0.9 !important;
+  pointer-events: none;
+}
